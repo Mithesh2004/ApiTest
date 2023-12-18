@@ -1,0 +1,7 @@
+{
+  "expected_values": {
+    "key1": { "key": { "key1": "value01" } },
+    "key2": "value2",
+    "key3": [1,2,3]
+  }
+}
